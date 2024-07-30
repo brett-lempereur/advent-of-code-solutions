@@ -40,4 +40,4 @@
     (time
      (let* ([solution (dynamic-require solution-path 'part-two)]
             [result (solution)])
-       (printf " result: ~a" result)))))
+       (printf " result: ~a\n" result)))))
