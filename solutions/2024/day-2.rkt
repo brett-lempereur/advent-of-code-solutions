@@ -9,6 +9,8 @@
 
 (require advent)
 
+(provide part-one part-two)
+
 ;;;
 ;;; Parsing
 ;;;
